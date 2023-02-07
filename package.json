@@ -1,0 +1,16 @@
+{
+  "name": "primer-proyecto",
+  "version": "1.0.0",
+  "description": "Esta es la primera actividad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "proyect"
+  ],
+  "author": "Javier Luna",
+  "license": "ISC"
+}
